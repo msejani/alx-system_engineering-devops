@@ -1,2 +1,15 @@
 #!/bin/bash
 ls -la >> ls_cwd_content
+total 40
+drwxr-xr-x 2 root root 198 Mar 13 07:17 .
+drwxr-xr-x 6 root root 121 Mar 13 03:04 ..
+-rwxr--r-- 1 root root  32 Mar 13 04:44 0-hello_world
+-rw-r--r-- 1 root root  12 Mar 13 04:49 1-confused_smiley
+-rwxr--r-- 1 root root  28 Mar 13 05:14 2-hellofile
+-rwxr--r-- 1 root root  40 Mar 13 05:24 3-twofiles
+-rwxr--r-- 1 root root  30 Mar 13 05:31 4-lastlines
+-rwxr--r-- 1 root root  33 Mar 13 05:42 5-firstlines
+-rwxr--r-- 1 root root  50 Mar 13 05:48 6-third_line
+-rwxr--r-- 1 root root 100 Mar 13 07:13 7-file
+-rwxr--r-- 1 root root  37 Mar 13 07:21 8-cwd_state
+-rw-r--r-- 1 root root  86 Mar 13 03:24 README.md
